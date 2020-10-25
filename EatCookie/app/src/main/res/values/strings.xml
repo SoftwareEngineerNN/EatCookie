@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TextView Learning</string>
+
+    <plurals name="pluralsForList">
+        <item quantity="zero">%1$d element</item>
+        <item quantity="one">%1$dst element</item>
+        <item quantity="two">%1$dnd element</item>
+        <item quantity="few">%1$drd element</item>
+<!--        <item quantity="many">%1$dth element</item>-->
+        <item quantity="other">%1$dth element</item>
+    </plurals>
+</resources>
